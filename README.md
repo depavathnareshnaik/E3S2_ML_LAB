@@ -53,21 +53,30 @@ E3S2_ML_LAB/
 Each folder contains:
 - Jupyter notebooks (.ipynb) with step-by-step implementation
 - Sample datasets (where applicable)
-- Visualizations and result interpretation
+- Visualizations and result interpretations
+
 
 ---
 
-## ⚙️ Setup Instructions
+⚙️ Setup Instructions
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/depavathnareshnaik/E3S2_ML_LAB.git
-   cd E3S2_ML_LAB
+1. Clone the repository
+
+git clone https://github.com/depavathnareshnaik/E3S2_ML_LAB.git
+cd E3S2_ML_LAB
+
 
 2. Create a virtual environment (optional but recommended)
 
+For Linux/macOS:
+
+python3 -m venv venv
+source venv/bin/activate
+
+For Windows:
+
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+venv\Scripts\activate
 
 
 3. Install required packages
@@ -84,6 +93,10 @@ jupyter notebook
 
 ---
 
+
+
+
+
 📌 Highlights
 
 Clean, modular code in Jupyter notebooks
@@ -98,10 +111,13 @@ Performance evaluation using multiple metrics
 
 ---
 
-👨‍💻 Author
+## ✍️ Author
 
-Naresh Depavath
-Student at RGUKT Basar | B.Tech CSE | 3rd Year
+- **Name:** DEPAVATH NARESH 
+- **ID:** B200391  
+- **Class:** CSE-C1  
+- **Year:** 3rd Year B.Tech CSE  
+- **Campus:** RGUKT Basar
 GitHub: @depavathnareshnaik
 
 
