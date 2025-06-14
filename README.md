@@ -37,8 +37,18 @@ Welcome to the **Machine Learning Laboratory** repository! This repo contains a 
 ---
 
 ## 🗂️ Repository Structure
-
-E3S2_ML_LAB/ │ ├── Linear_Regression/ ├── Logistic_Regression/ ├── Decision_Tree/ ├── KNN/ ├── SVM/ ├── Naive_Bayes/ ├── KMeans_Clustering/ ├── Model_Evaluation/ ├── datasets/ └── README.md
+E3S2_ML_LAB/
+│
+├── Linear_Regression/
+├── Logistic_Regression/
+├── Decision_Tree/
+├── KNN/
+├── SVM/
+├── Naive_Bayes/
+├── KMeans_Clustering/
+├── Model_Evaluation/
+├── datasets/
+└── README.md
 
 Each folder contains:
 - Jupyter notebooks (.ipynb) with step-by-step implementation
